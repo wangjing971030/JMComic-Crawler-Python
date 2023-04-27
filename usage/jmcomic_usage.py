@@ -9,9 +9,9 @@ jm_option = create_option(
 def download_jm_album():
     ls = str_to_list('''
     180459
-404776
-426425
-426454
+    404776
+    426425
+    426454
 
 
     ''')
